@@ -1,0 +1,621 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+proyecto
+</name>
+</assembly>
+<members>
+<member name="T:proyecto.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources._1544460659735">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources._1544462806685">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources._5aee82fadbc5df1461ac7606446f44c0">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.basededatos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.clientes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.color_degradado_fondos_degradados_multicolor_51200_1500x938">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.empleado">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.fon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.info_1459077_960_720">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.istockphoto_695645728_612x612">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.maxresdefault">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.sistema_facturacion_electronica">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.soy_luna_3__fondo___textura_fanmade__1_by_gglio_dc4ibuh">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto.My.Resources.Resources.tumblr_mwiihl8ryr1qbkusho1_1280">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.PERSONALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.PERSONALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.PERSONALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSetTableAdapters.CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSetTableAdapters.PERSONALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSetTableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(proyecto.definitivaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(proyecto.definitivaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(proyecto.definitivaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSetTableAdapters.TableAdapterManager.UpdateAll(proyecto.definitivaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.PERSONALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.PERSONALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.PERSONALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1TableAdapters.CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1TableAdapters.PERSONALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1TableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(proyecto.definitivaDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(proyecto.definitivaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(proyecto.definitivaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager.UpdateAll(proyecto.definitivaDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:proyecto.definitivaDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.PERSONALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.PERSONALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.PERSONALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.PERSONALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager.UpdateAll(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.PERSONALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.PERSONALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.PERSONALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.PERSONALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager.UpdateAll(proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:proyecto.PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.PERSONALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.PERSONALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.PERSONALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.PERSONALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager.UpdateAll(proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:proyecto._PROYECTO_BASE_DE_DATOS_X_PROGRAMACION1___copiaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

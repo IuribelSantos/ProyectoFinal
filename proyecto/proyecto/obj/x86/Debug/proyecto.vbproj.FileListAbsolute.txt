@@ -1,0 +1,119 @@
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.Form1.resources
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.Resources.resources
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.xml
+C:\Users\Michael\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\Michael\OneDrive\Programas\Aburrido\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Michael\OneDrive\Programas\Aburrido\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\Michael\OneDrive\Programas\Aburrido\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+C:\Users\Michael\OneDrive\Programas\Aburrido\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\iurib\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\iurib\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\iurib\Desktop\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\iurib\Desktop\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\iurib\Desktop\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1.mdb
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.BASEDEDATOS.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.principal.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1 - copia.mdb
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.facturacion.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.clientes.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.empleado.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\bin\Debug\Organigrama.mdb
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.ORGANIGRAMA.resources
+C:\Users\iurib\Desktop\proyecto\proyecto\obj\x86\Debug\proyecto.informacion.resources
+F:\proyecto\proyecto\bin\Debug\proyecto.exe.config
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+F:\proyecto\proyecto\bin\Debug\Organigrama.mdb
+F:\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1 - copia.mdb
+F:\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1.mdb
+F:\proyecto\proyecto\bin\Debug\proyecto.exe
+F:\proyecto\proyecto\bin\Debug\proyecto.pdb
+F:\proyecto\proyecto\bin\Debug\proyecto.xml
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.clientes.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.empleado.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.facturacion.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.BASEDEDATOS.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.informacion.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.ORGANIGRAMA.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.principal.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\bin\Debug\definitiva.mdb
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1 - copia.mdb
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1.mdb
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.clientes.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.empleado.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.facturacion.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.BASEDEDATOS.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.informacion.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.principal.resources
+C:\Users\iurib\Desktop\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\definitiva.mdb
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1 - copia.mdb
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1.mdb
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.vbprojAssemblyReference.cache
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.clientes.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.empleado.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.facturacion.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.BASEDEDATOS.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.informacion.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.principal.resources
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.cache
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+C:\Users\come on play\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\definitiva.mdb
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1 - copia.mdb
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\PROYECTO BASE DE DATOS X PROGRAMACION1.mdb
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.vbprojAssemblyReference.cache
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.clientes.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.empleado.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.facturacion.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.BASEDEDATOS.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.informacion.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.principal.resources
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.cache
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+C:\Users\iurib\Desktop\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+E:\iuribel\memorial\proyecto\proyecto\bin\Debug\proyecto.exe.config
+E:\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+E:\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+E:\iuribel\memorial\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
